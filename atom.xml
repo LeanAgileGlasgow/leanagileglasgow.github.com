@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[lean-agile-glasgow]]></title>
   <link href="http://LeanAgileGlasgow.github.com/atom.xml" rel="self"/>
   <link href="http://LeanAgileGlasgow.github.com/"/>
-  <updated>2012-06-27T16:33:03+02:00</updated>
+  <updated>2012-06-28T07:08:35+02:00</updated>
   <id>http://LeanAgileGlasgow.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[glasgow's lean agile community]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
